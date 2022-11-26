@@ -1,4 +1,4 @@
-# Executive Summary 
+# Austin Animal Shelter
 ## Problem Statement
 
 We are interested in building a classification model to predict the outcome for animals at the Austin Animal Shelter. We are looking to identify the model with the highest accuracy of predictions of outcome. These outcome predictions will be used to help the shelter allocate resources; by using the model to predict for different animals what their outcome will be, the shelter can predict how much money should be allocated to potential transfers, euthanasia, etc. 
